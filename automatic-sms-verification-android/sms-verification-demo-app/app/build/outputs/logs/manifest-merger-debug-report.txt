@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/surya/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eff27736d1ae9bdb3f91014a3b70a370/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/surya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ed5b64297be579c0c8ad7c5fc81670eb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-17.0.0.aar/33d4a6c91776ec62fd2199d5eea96607/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-17.0.0.aar/9df17c10e05e8fe298171cac7afcd199/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f5415fa109f23e21e2722d18923d74f4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e9eb7e73f3ccdf82644467413e67976e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/4eb6f529dba4c3e6a779a02e5a3bd9ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/00afc951912e822f92efd7706c196020/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2f8ee358e42ddcd3ce5188c830577c9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/f5baf5a86d2af88bf8d88e79d73541d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6414294a2b18f376a7fcd7f7f486df97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/db87cec20f29e9f112f5526aa37852ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e374bd49ea0d72be71168d59757238f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/50184bd383b53bb178da7b727d63cbec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8631a1150cd11ebf58f430c654ed66c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/597720d4b64907b218958a319cf7e287/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8dd40984a0a9fb7cd20a6833f52330ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/91afaa9c787d18254685eb3fa838fb04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b0cfa1f45502ee4e3812fd2299a2ff9c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/79041dc095e7a346d4b3840883c905be/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/464e9f63421d66bdb5f1156d9de0467c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1df62698aea220e3ee5bd4ed724f1f11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/26040cf040802cac80182eb9346a1403/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f1477cb6b63cdd072cad54195f8c2546/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d23f65d95fd66139fd1a06c093856795/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ecc6ef56c9d51c2e7cc67ddf93769c1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/85db476cec9bfe9ca4e3642a18ce04b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0783cc9cd1d47dec8bfc608a005af1c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4c7e175d44705b271b822f824fdc59d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d50eaaeaf8bc64241735a388f4843309/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:4:3-64
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:4:20-62
+application
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:6:3-28:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/surya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ed5b64297be579c0c8ad7c5fc81670eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/surya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ed5b64297be579c0c8ad7c5fc81670eb/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f5415fa109f23e21e2722d18923d74f4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f5415fa109f23e21e2722d18923d74f4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b0cfa1f45502ee4e3812fd2299a2ff9c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b0cfa1f45502ee4e3812fd2299a2ff9c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/79041dc095e7a346d4b3840883c905be/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/79041dc095e7a346d4b3840883c905be/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b0cfa1f45502ee4e3812fd2299a2ff9c/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:12:7-33
+	android:label
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:8:7-41
+activity#com.wave.smsverification.MainActivity
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:14:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:18:19-66
+receiver#com.wave.smsverification.receiver.SmsBroadcastReceiver
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:21:5-27:16
+	android:exported
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:23:9-32
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:22:9-54
+intent-filter#action:name:com.google.android.gms.auth.api.phone.SMS_RETRIEVE
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:24:7-26:23
+action#com.google.android.gms.auth.api.phone.SMS_RETRIEVE
+ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:25:9-85
+	android:name
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml:25:17-82
+uses-sdk
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/surya/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eff27736d1ae9bdb3f91014a3b70a370/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/surya/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/eff27736d1ae9bdb3f91014a3b70a370/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/surya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ed5b64297be579c0c8ad7c5fc81670eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/surya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ed5b64297be579c0c8ad7c5fc81670eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-17.0.0.aar/33d4a6c91776ec62fd2199d5eea96607/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-17.0.0.aar/33d4a6c91776ec62fd2199d5eea96607/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-17.0.0.aar/9df17c10e05e8fe298171cac7afcd199/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-17.0.0.aar/9df17c10e05e8fe298171cac7afcd199/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f5415fa109f23e21e2722d18923d74f4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f5415fa109f23e21e2722d18923d74f4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e9eb7e73f3ccdf82644467413e67976e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e9eb7e73f3ccdf82644467413e67976e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/4eb6f529dba4c3e6a779a02e5a3bd9ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/4eb6f529dba4c3e6a779a02e5a3bd9ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/00afc951912e822f92efd7706c196020/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/00afc951912e822f92efd7706c196020/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2f8ee358e42ddcd3ce5188c830577c9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2f8ee358e42ddcd3ce5188c830577c9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/f5baf5a86d2af88bf8d88e79d73541d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/f5baf5a86d2af88bf8d88e79d73541d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6414294a2b18f376a7fcd7f7f486df97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6414294a2b18f376a7fcd7f7f486df97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/db87cec20f29e9f112f5526aa37852ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/db87cec20f29e9f112f5526aa37852ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e374bd49ea0d72be71168d59757238f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e374bd49ea0d72be71168d59757238f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/50184bd383b53bb178da7b727d63cbec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/50184bd383b53bb178da7b727d63cbec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8631a1150cd11ebf58f430c654ed66c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8631a1150cd11ebf58f430c654ed66c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/597720d4b64907b218958a319cf7e287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/597720d4b64907b218958a319cf7e287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8dd40984a0a9fb7cd20a6833f52330ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8dd40984a0a9fb7cd20a6833f52330ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/91afaa9c787d18254685eb3fa838fb04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/91afaa9c787d18254685eb3fa838fb04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b0cfa1f45502ee4e3812fd2299a2ff9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b0cfa1f45502ee4e3812fd2299a2ff9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/79041dc095e7a346d4b3840883c905be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/79041dc095e7a346d4b3840883c905be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/464e9f63421d66bdb5f1156d9de0467c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/464e9f63421d66bdb5f1156d9de0467c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1df62698aea220e3ee5bd4ed724f1f11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1df62698aea220e3ee5bd4ed724f1f11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/26040cf040802cac80182eb9346a1403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/26040cf040802cac80182eb9346a1403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f1477cb6b63cdd072cad54195f8c2546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f1477cb6b63cdd072cad54195f8c2546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d23f65d95fd66139fd1a06c093856795/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d23f65d95fd66139fd1a06c093856795/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ecc6ef56c9d51c2e7cc67ddf93769c1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ecc6ef56c9d51c2e7cc67ddf93769c1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/85db476cec9bfe9ca4e3642a18ce04b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/85db476cec9bfe9ca4e3642a18ce04b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0783cc9cd1d47dec8bfc608a005af1c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0783cc9cd1d47dec8bfc608a005af1c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4c7e175d44705b271b822f824fdc59d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4c7e175d44705b271b822f824fdc59d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d50eaaeaf8bc64241735a388f4843309/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d50eaaeaf8bc64241735a388f4843309/AndroidManifest.xml:20:5-44
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surya/AndroidStudioProjects/sms-verification-demo-app/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-auth-17.0.0.aar/deade8bc4170dcde1eec1dba98be5a5b/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/eaf6484cc22e3ebfd0e05b0fb7ce1d02/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/surya/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/b703dbb08c0dbc344f34dab33c399e7b/AndroidManifest.xml:24:13-58
